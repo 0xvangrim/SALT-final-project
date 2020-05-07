@@ -1,0 +1,1 @@
+(c) Copyright 2020 Mindler AB, all rights reserved

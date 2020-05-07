@@ -1,0 +1,12 @@
+#OS X
+.DS_Store
+
+#Config/Settings
+.env
+.vscode
+
+#Dependencies
+node_modules
+
+#Database seed file
+src/seed.js

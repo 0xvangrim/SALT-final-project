@@ -1,0 +1,22 @@
+version: "3.3"
+services:
+  # MySQL for API
+   db_mindler:
+     image: mysql:5.7
+     restart: always
+     container_name: minder_db
+     environment:
+       MYSQL_DATABASE: "mindler"
+       MYSQL_USER: "root"
+       MYSQL_PASSWORD: "root"
+       MYSQL_ROOT_PASSWORD: "root"
+       MYSQL_ROOT_HOST: "%"
+     ports:
+       - "3306:3306"
+     expose:
+       - "3306"
+     volumes:
+       - db_mindler_data:/var/lib/mysql
+
+volumes:
+  db_mindler_data: {}
