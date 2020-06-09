@@ -1,5 +1,5 @@
 # Final Project at &lt;/salt>
-The final project we did for the &lt;/salt> bootcamp.
+The final project we did at the &lt;/salt> bootcamp for the health-tech company Mindler.
 
 
 ## Overview
