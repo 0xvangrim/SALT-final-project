@@ -12,7 +12,7 @@ The final project comprised of two parts:
 
 
 ## Specifications
-The specifications of the project was to write stand-alone components that could easily be integrated to an existing codebase at our client.
+The specifications of the project was to write stand-alone components that could easily be integrated to our client's existing codebase.
 
 
 ### Demo 1
